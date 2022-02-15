@@ -1,0 +1,1 @@
+This project uses django to create a Book List of one's preferences, and what one's opinion about the book.
